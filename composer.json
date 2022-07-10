@@ -1,0 +1,17 @@
+{
+    "name": "morn/web-app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jamornP",
+            "email": "100953989+jamornP@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "claviska/simpleimage": "^3.7"
+    }
+}
